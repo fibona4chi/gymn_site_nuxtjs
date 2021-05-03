@@ -1,0 +1,21 @@
+<template>
+<footer class="footer" style="background-color: #263238">
+    <div class="container">
+        <p class="float-right">
+            <a href="#" class="mx-3">Мы на карте</a>
+            <a href="#" class="mx-3">Наверх</a>
+        </p>
+        <span class="text-muted mr-2">Спортивная школа Твоя гимнастика</span>
+    </div>
+</footer>
+</template>
+
+<script>
+export default {
+name: "Footer"
+}
+</script>
+
+<style scoped>
+
+</style>
